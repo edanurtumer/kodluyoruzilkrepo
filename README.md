@@ -5,4 +5,4 @@ Kodluyoruz Kapsamında Açtığım İlk Repo. İçerisinde bir adet README dosya
 
 <h2>Installation<h2>
 Öncelikle projeyi clonelayın.
->https://github.com/edanurtumer/kodluyoruzilkrepo.git
+-https://github.com/edanurtumer/kodluyoruzilkrepo.git
